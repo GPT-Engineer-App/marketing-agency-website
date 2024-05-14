@@ -8,7 +8,7 @@ const Index = () => {
         {/* Header Section */}
         <Box bg="blue.500" color="white" p={6} textAlign="center">
           <Heading as="h1" size="2xl">
-            Your Marketing Agency
+            JG Marketing
           </Heading>
           <Text fontSize="lg">We help you grow your business</Text>
         </Box>
@@ -91,7 +91,7 @@ const Index = () => {
             <IconButton aria-label="LinkedIn" icon={<FaLinkedin />} size="lg" isRound />
             <IconButton aria-label="Instagram" icon={<FaInstagram />} size="lg" isRound />
           </HStack>
-          <Text mt={4}>© 2023 Your Marketing Agency. All rights reserved.</Text>
+          <Text mt={4}>© 2024 JG Marketing. All rights reserved.</Text>
         </Box>
       </VStack>
     </Container>
